@@ -1,0 +1,26 @@
+/* Add your custom CSS styles here */
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f8f8f8;
+}
+
+.wrap_all {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  background-color: #fff;
+}
+
+.inner_sec {
+  max-width: 1200px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.cta-btn .cta a img {
+  width: 100%;
+  height: auto;
+}
+
+/* Add more styles here */
